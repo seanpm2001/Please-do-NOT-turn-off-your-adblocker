@@ -1,406 +1,118 @@
 
 ***
 
-# <projectName>
+# Please do NOT turn off your adblocker
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+A lot of websites will tell you to turn off your adblocker. This article explains why this is not a good idea.
 
-# By:
+## Unethical ads
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+Most ads nowadays aren't ethical. There are exceptions, like [`EthicalAds`](https://www.ethicalads.io/), but these unfortunately aren't mainstream yet.
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+### What is an unethical ad
 
+An unethical ad:
 
-### Top
+- Can slow down your computer
+- Can give your computer malware
+- Can cause depression
+- Can track you
+- Can distract you from what you are trying to do
+- Can be a real nuisance
+- Can be a popup ad
+- Can waste your time in a serious situation
 
-# `README.md`
+## Ads are a distraction
 
-***
+Ads are most often a distraction from what you are trying to look for.
 
-## Read this article in a different language
+### Clickbait
 
-**Sorted by:** `A-Z`
+Clickbait ads are a nuisance as well. [This section needs expansion]
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
+## Inefficiency
 
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+### Video ads
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Autoplaying video ads are extremely inefficient, significantly slow down pages, make it much harder to use the site, and are very obtrusive. Sites that use these should absolutely pay the price and lose as much ad revenue as possible, if not avoided altogether (lose traffic)
 
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
+### All ads
 
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
+Ads slow down your computer, as they are highly inefficient. Each ad currently being played on a webpage uses inefficient JavaScript, and essentially becomes a background process. The more ads you have on a webpage, the slower the page will become. You will notice a significant speed improvement if you use an adblocker on websites like these.
 
-***
+## Adblocking is a security feature
 
-# Index
+uBlock origin is also a security feature, and isn't just an adblocker. It will help you avoid malicious sites, and also block most scripts from doing bad things to your computer or web browser.
 
-[00.0 - Top](#Top)
+If you haven't already, please install an extension like uBlock origin. It is a first-line defense (browser anti-virus) for preventing bad scripts from being loaded onto your computer, and can act as a net for scripts, before they hit your actual anti-virus. When a website tells you to turn off your adblocker, and you are using uBlock origin, avoid that site! it is basically saying "Please disable your anti-virus before continuing to our site" which is incredibly sketchy/shady. You can get that content elsewhere on the Internet, and if you can't, it simply isn't worth it.
 
-> [00.1 - Title](#<projectName>)
+Porn sites are often credited as a main reason why computers get malware. This is mostly because these sites are deeper in the clear web/not in the clear web, and thus have lesser ad providers. When the state of Google ads is the best that mainstream ads can give, this can give a very stark picture of why ads on sites like Pornhub are much more dangerous than those on a news article or blog post.
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+### Profiting off of malicious behavior
 
-> [00.3 - Index](#Index)
+Just remember, companies like Google are making money off of people seeing/clicking on the fake download button ads that most often give you really bad malware
 
-[01.0 - Description](#RepositoryName)
+Companies like Google should NOT be getting money for slowing down computers and giving them malware
 
-[02.0 - About](#About)
+## Targeted ads and user profiling
 
-[03.0 - Wiki](#Wiki)
+Targeted ads have become common ever since the Google era of the Internet started. They are highly invasive, and often malicious. They sometimes can be used to racially profile you. [This section needs expansion]
 
-[04.0 - History](#History)
+## Links to depression and hate
 
-> [04.1 - Pre-history](#Pre-history)
+Ads can be depressing, and lower your mood. Some ads are designed to anger you, or promote hate speech, which is absolutely not OK. [This section needs expansion]
 
-> [04.2 - Alpha History](#Alpha-history)
+## You can just use another website
 
-> [04.3 - Beta History](#Beta-history)
+The Internet is massive. If a website won't let you continue without you disabling your adblocker, or some other inconvenient/malicious way, you can just go to another website. There are probably at least 1000 different websites that can do what that site is doing without being a pest.
 
-> [04.4 - Modern History](#Modern-history)
+## The current state of advertising
 
-[05.0 - Copying](#Copying)
+The current state of online advertising is incredibly poor and divisive. Most websites are priorized by certain search engines by how many ads they can serve, which can lead to lots of filler text, and an inability to quickly get to the point.
 
-[06.0 - Credits](#Credits)
+## Browsers attacking adblock users
 
-[07.0 - Installation](#Installation)
+Some web browsers (such as Google Chrome, and most of its Chromium-based derivatives like Opera, Microsoft Edge, Brave, and more) may make it impossible for the user to install an adblocker. Proposals have been put out by Google since 2019. If you haven't already, [:octocat: `you should stop using Google Chrome`](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/)
 
-[08.0 - Version history](#Version-history)
+## It is OK to turn your adblocker off for some sites
 
-[09.0 - Version history](#Version-history)
+You can turn your adblocker off on sites like Wikipedia, which have a very good privacy and security record, and don't ever have unethical ads or tracking scripts.
 
-[10.0 - Software status](#Software-status)
+## Common counters
 
-[11.0 - Sponsor info](#Sponsor-info)
+### But we have to make money
 
-[12.0 - Contributers](#Contributers)
+Then you (the website operator) should have been using ethical ads, a donation model, or another ethical way of making money. The world is an everchanging place. If you can't adapt, you will fail.
 
-[13.0 - Issues](#Issues)
+## Recommendations
 
-> [13.1 - Current issues](#Current-issues)
+### uBlock Origin
 
-> [13.2 - Past issues](#Past-issues)
+**NOT TO BE CONFUSED WITH uBlock, which went rogue, and is a completely different software**
 
-> [13.3 - Past pull requests](#Past-pull-requests)
+- [`Source code/manual install link`](https://github.com/gorhill/uBlock/releases)
+- [`Mozilla Firefox link`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [`Google Chrome link`](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [`Microsoft Edge link`](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+- [`Opera link`](https://addons.opera.com/en/extensions/details/ublock/)
 
-> [13.4 - Active pull requests](#Active-pull-requests)
+I cannot recommend uBlock Origin enough. I block on average 1.2-5 million elements per year, of which I am sure at least 20000-280000 are ads. uBlock Origin also protects me from tracking scripts, and sometimes even bad websites and malware. It is my first line of defense on my computer (the second line of defense being a full-fledged antivirus)
 
-[14.0 - Resources](#Resources)
+## Community database
 
-[15.0 - Contributing](#Contributing)
+This will be a community-led database on the cons of advertisements, and the subsequent pros of ad blockers. Feel free to contribute to this repository to add more helpful information. You can also fork it, and share it to spread the word, which is desperately needed.
 
-[16.0 - About README](#About-README)
+### Current anti-adblock websites
 
-[17.0 - README Version history](#README-version-history)
+- This list is currently empty, and needs signficant expansion.
 
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+### Former anti-adblock websites
 
-> [18.9 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+- [`www.spanishDict.com`](https://www.spanishdict.com/) Last checked: 2023, May 20th. When I originally tried to use this site, it limited me to 3 pages before I couldn't use the site, and made the claim that ~60% of users turned their adblocker off for this site (the numbers are vague in my mind) I just use other websites now, but upon checking today, I have noted that this anti-adblock message is no longer there, but there is a new payment model. There are also lots of trackers.
+- This list is incomplete, and needs signficant expansion.
 
 ***
 
-## History
-
-Write about this projects history here.
-
-### Pre-history
-
-No pre-history to show for this project.
-
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
-
-***
-
-## Credits
-
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
-
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
-
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
-
-**Line count (including blank lines and compiler line):** `0,407`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
-
-### EOF
+**File version:** `1 (2023, Saturday, May 20th at 8:55 pm PST)`
 
 ***
